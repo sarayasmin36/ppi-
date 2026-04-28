@@ -85,3 +85,5 @@ let emp1 = new Emprestimo(livro1, pessoa1)
 
 console.log(emp1.obterDadosEmprestimo())
 console.log(emp1.obterDataPrevistaDevolucao())
+
+//
