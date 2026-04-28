@@ -16,5 +16,11 @@
     "url": "https://github.com/sarayasmin36/ppi-/issues"
   },
   "homepage": "https://github.com/sarayasmin36/ppi-#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
 }
